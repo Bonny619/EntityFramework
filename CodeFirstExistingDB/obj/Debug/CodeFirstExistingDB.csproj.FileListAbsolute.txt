@@ -1,0 +1,12 @@
+C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstExistingDB\bin\Debug\CodeFirstExistingDB.exe.config
+C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstExistingDB\bin\Debug\CodeFirstExistingDB.exe
+C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstExistingDB\bin\Debug\CodeFirstExistingDB.pdb
+C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstExistingDB\bin\Debug\EntityFramework.dll
+C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstExistingDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstExistingDB\bin\Debug\EntityFramework.xml
+C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstExistingDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstExistingDB\obj\Debug\CodeFirstExistingDB.csprojAssemblyReference.cache
+C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstExistingDB\obj\Debug\CodeFirstExistingDB.csproj.CoreCompileInputs.cache
+C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstExistingDB\obj\Debug\CodeFirstExistingDB.csproj.CopyComplete
+C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstExistingDB\obj\Debug\CodeFirstExistingDB.exe
+C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstExistingDB\obj\Debug\CodeFirstExistingDB.pdb

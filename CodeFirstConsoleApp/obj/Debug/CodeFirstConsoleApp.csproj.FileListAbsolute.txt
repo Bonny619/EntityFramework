@@ -1,0 +1,14 @@
+C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstConsoleApp\obj\Debug\CodeFirstConsoleApp.csprojAssemblyReference.cache
+C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstConsoleApp\obj\Debug\CodeFirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstConsoleApp\bin\Debug\CodeFirstConsoleApp.exe.config
+C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstConsoleApp\bin\Debug\CodeFirstConsoleApp.exe
+C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstConsoleApp\bin\Debug\CodeFirstConsoleApp.pdb
+C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstConsoleApp\bin\Debug\EntityFramework.dll
+C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstConsoleApp\bin\Debug\EntityFramework.xml
+C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstConsoleApp\obj\Debug\CodeFirstConsoleApp.csproj.CopyComplete
+C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstConsoleApp\obj\Debug\CodeFirstConsoleApp.exe
+C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstConsoleApp\obj\Debug\CodeFirstConsoleApp.pdb
+C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstConsoleApp\obj\Debug\CodeFirstConsoleApp.Migrations.InitialModel.resources
+C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstConsoleApp\obj\Debug\CodeFirstConsoleApp.csproj.GenerateResource.cache
