@@ -10,3 +10,5 @@ C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstExistingDB\o
 C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstExistingDB\obj\Debug\CodeFirstExistingDB.csproj.CopyComplete
 C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstExistingDB\obj\Debug\CodeFirstExistingDB.exe
 C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstExistingDB\obj\Debug\CodeFirstExistingDB.pdb
+C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstExistingDB\obj\Debug\CodeFirstExistingDB.Migrations.InitialModel.resources
+C:\Workspace\EntityFramework\git\CodeFirst\EntityFramework\CodeFirstExistingDB\obj\Debug\CodeFirstExistingDB.csproj.GenerateResource.cache
